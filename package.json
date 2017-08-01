@@ -9,8 +9,8 @@
   "author": "Facundo Olano",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.12.4",
-    "google-play-scraper": "^3.1.8"
+    "express": "^4.15.3",
+    "google-play-scraper": "^3.3.1"
   },
   "devDependencies": {
     "eslint": "^2.8.0",
